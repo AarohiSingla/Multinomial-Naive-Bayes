@@ -1,0 +1,31 @@
+Label,Error 
+T,java.lang.nullpointer.exception
+T,Array.index.out.of.bound.exception
+F,com.omsa.bound.exception
+T,com.omsa.service.exception
+T,java.lang.nullpointer.exception.Stacktrce error
+T,Array.index.out.of.bound.exception #
+T,com.omsa.bound.exception.ba . !
+T,com.omsa.service.exception deb
+T,java.lang.nullpointer.exception jpa exception
+T,jpa exception
+F,UI validation error message
+F,Exception is happening due to enabler is down
+T,Runtime exception while exceuting the program
+T,Throwable
+T,com.omsa.bound.exception.ba . !
+T,com omsa service exception deb
+T,java lang nullpointer exception
+T,Array index out of bound exception
+F,com omsa bound.exception
+T,com omsa service exception
+T,java lang nullpointer exception.
+T,Array index out of bound exception #
+T,com omsa bound exception ba . !
+T,com omsa service exception deb
+T,error handling not happening due to bancs
+T,Bancs down Please retry
+T,validation error
+T,org.springframework.orm.jpa
+T,org.springframework.orm.jpa.JpaSystemException: could not execute statement; nested exception is org.hibernate.exception.GenericJDBCException: could not execute statement
+F,could not execute statement due to data is not correct.
